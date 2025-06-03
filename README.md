@@ -19,7 +19,7 @@ A comprehensive sports betting and casino platform built with the MERN stack, fe
 
 ## 🎥 Demo Video
 
-[![Platform Demo](assets/preview.png)](assets/1.mp4)
+![Platform Demo](assets/1.mp4)
 
 ## 🎮 Features
 
