@@ -105,13 +105,6 @@ A comprehensive sports betting and casino platform built with the MERN stack, fe
 - Live streaming integration
 - Cash out options
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📞 Support
 
